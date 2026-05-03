@@ -1,0 +1,23 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# release artifacts
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
